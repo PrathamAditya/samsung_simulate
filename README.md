@@ -1,2 +1,2 @@
 # samsung_simulate
-simulate of samsung website
+Hello! guys thisis simulate of Samsung website.
